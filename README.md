@@ -3,8 +3,9 @@
  features a user-friendly interface and is fully responsive, allowing it to work seamlessly on both desktop and mobile devices.
 
 # Table of Contents
-## Features
-## Technologies Used
+### Features
+### Technologies Used
+### Demo
 
 # Features:
 ## Basic Arithmetic Operations:
@@ -21,3 +22,6 @@ Allows users to input numbers and operators using both the keyboard and on-scree
 CSS: For styling the buttons, display, and layout, making the calculator visually appealing and responsive.
 
 JavaScript: For handling the logic of arithmetic operations and user interactions (e.g., button clicks).Caputuring user input and performing calculations
+### Demo:
+[calculator git.webm](https://github.com/user-attachments/assets/7548a6ea-7556-4be4-95e2-83cc4ac3ea05)
+
