@@ -17,5 +17,7 @@ Clear the display or delete the last input.
 Allows users to input numbers and operators using both the keyboard and on-screen buttons.
 ## Technologies Used:
  HTML: To create the structure of the calculator interface.
+ 
 CSS: For styling the buttons, display, and layout, making the calculator visually appealing and responsive.
+
 JavaScript: For handling the logic of arithmetic operations and user interactions (e.g., button clicks).Caputuring user input and performing calculations
